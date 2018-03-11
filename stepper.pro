@@ -1,4 +1,4 @@
-update=27-Jan-18 9:37:46 PM
+update=11-Mar-18 6:15:38 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=../KCAD_libs
@@ -213,3 +211,5 @@ LibName181=C:/Program Files/KiCad/share/kicad/library/kicad-symbols-master/Valve
 LibName182=C:/Program Files/KiCad/share/kicad/library/kicad-symbols-master/Video
 LibName183=D:/my_projects/electro/KCAD_libs/Driver_stepper_ST
 LibName184=Driver_stepper_ST
+[general]
+version=1
